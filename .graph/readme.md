@@ -9,3 +9,7 @@ Home: https://pdm.fming.dev/latest/
 
 doc:
 - https://packaging.python.org/en/latest/key_projects/#pdm
+
+## Hatch
+doc:
+- https://packaging.python.org/en/latest/key_projects/#hatch
