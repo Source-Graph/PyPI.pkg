@@ -1,5 +1,6 @@
 ## Hatch
 doc:
+- https://hatch.pypa.io/latest/publish/
 - https://packaging.python.org/en/latest/key_projects/#hatch
 
 sch: https://www.youtube.com/results?search_query=python+hatch
